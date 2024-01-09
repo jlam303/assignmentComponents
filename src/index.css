@@ -5,9 +5,21 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: black;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.divo{
+  border: 10px solid red;
+  display: flex;
+  justify-content: center;
+  padding: 1px;
+  margin: 22px;
+  background-color: yellow;
+  color: rgb(255, 4, 255);
+  font-size: xx-large;
+  font-weight: 900;
 }
