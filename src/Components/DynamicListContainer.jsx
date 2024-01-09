@@ -13,7 +13,6 @@ const DynamicListContainer = ({data,type}) => {
             return <li key={i}>{x}</li>
         })}
     </ol>}
-
     </div>
   )
 }
